@@ -6,7 +6,7 @@
   "success_url": "/",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {SUBZERO-MD~M47yRMzbvPOAKsrgn5bP
       "description": "Put your Subzero session-id here.",
       "required": true,
       "value": ""
@@ -17,12 +17,12 @@
       "value": "."
     },
   
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {50940038951
       "description": "put the owner number for bot.",
       "required": false,
       "value": "263719646303"
     },
-    "BOT_NAME": {
+    "BOT_NAME": {Md-rubens
       "description": "Type here the bot name.",
       "required": false,
       "value": "SUBZERO-MD"
